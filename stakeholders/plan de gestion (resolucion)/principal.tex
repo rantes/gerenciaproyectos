@@ -1,0 +1,31 @@
+\documentclass[letterpaper,14pt,oneside]{report}
+\usepackage{amssymb,amsmath,alltt}
+\usepackage{graphicx}
+\usepackage[latin1]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{setspace}
+\usepackage{epsfig}
+\usepackage{float}
+\usepackage[10pt]{moresize}
+\usepackage{titlesec}
+
+%este es el archivo de configuracion
+\input{input}
+
+% Se puede cambiar los siguientes parámetros para modificar el acomodo del texto
+\parskip= 6pt
+%definicion de los archivos
+
+\begin{document}
+\pagenumbering{arabic} \setcounter{page}{1}
+\pagestyle{fancy}
+\begingroup
+\let\clearpage\relax
+{\let\clearpage\relax\par\include{controlversiones}}
+{\let\clearpage\relax\par\include{objetivos}}
+{\let\clearpage\relax\par\include{procesos}}
+{\let\clearpage\relax\par\include{docs}}
+{\let\clearpage\relax\par\include{tecnicas}}
+{\let\clearpage\relax\par\include{procedimientos}}
+\endgroup
+\end{document}

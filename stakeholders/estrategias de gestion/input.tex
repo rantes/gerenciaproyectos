@@ -6,7 +6,6 @@
 \usepackage{array}
 %
 \pagestyle{fancy}
-
 \geometry{lmargin=2cm,rmargin=3cm,tmargin=0.5cm,bmargin=4cm}
 \def\arraystretch{1.5}
 
@@ -17,12 +16,12 @@
 \fancyhead[C]{
 	\begin{table}[H]
 		\centering
-		\begin{tabular}{ c c }
+		\begin{tabular}{ c c p{100pt} }
 		\multirow{3}{*}{
-			\includegraphics[width=0.3\textwidth]{images/logoecci.png}}
-		 & ESCUELA COLOMBIANA DE CARRERAS INDUSTRIALES \\
-		 &	GERENCIA DE PROYECTOS \\
-		 &	\hfill {\small GESPRO02} \\
+			\includegraphics[width=0.25\textwidth]{images/logoecci.png}}
+		 & ESCUELA COLOMBIANA DE CARRERAS INDUSTRIALES & \\
+		 & GERENCIA DE PROYECTOS &\\
+		 & &\hfill {\small GESPRO06}\\
 		\end{tabular}
 	\end{table}
 }
@@ -36,13 +35,13 @@
 \fancyhead[C]{
 	\begin{table}[H]
 		\centering
-		\begin{tabular}{ c c }
+		\begin{tabular*}{\textwidth}{ c c }
 		\multirow{3}{*}{
 			\includegraphics[width=0.25\textwidth]{images/logoecci.png}}
 		 & ESCUELA COLOMBIANA DE CARRERAS INDUSTRIALES \\
 		 & GERENCIA DE PROYECTOS \\
-		 &	\hfill {\small GESPRO02} \\
-		\end{tabular}
+		 &	\hfill {\small GESPRO06} \\
+		\end{tabular*}
 	\end{table}
 }
 \renewcommand{\headrulewidth}{0pt}
@@ -104,4 +103,3 @@
 
 %definiendo el modo de insercion de capitulos
 \titleclass{\chapter}{top}
-
