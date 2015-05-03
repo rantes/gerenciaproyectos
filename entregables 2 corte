@@ -1,0 +1,68 @@
+1. bolsa resellable
+2. Acta de entrega
+3. cd -> label -> grupo: 10AN, 
+		  Nombre py: xxx,
+		  Integrantes: xxxx,
+		  Grupo del py: #
+
+Contenido del cd:
+
+1. Gestion de la integracion
+	1.1 Plan de la gestion 									GESPRO01
+	1.2. Project charter									GESPRO02
+2. gestion de los stakeholders
+	2.1 Plan de gestion										GESPRO03
+	2.2 Lista de stakeholders								GESPRO04
+	2.3 Estrategias para la administracion de Stakeholders	GESPRO05
+	2.4 Analisis de los stakeholders						GESPRO06
+	2.5 Encuestas			
+3. GEstion del alcance
+	3.1 Plan de la gestion del alcance 						GESPRO07
+	3.2 Plan de la gestion de requerimientos				GESPRO08
+	3.3 Lista de requerimientos								GESPRO09
+	3.4 Matriz de trazabilidad								GESPRO10
+	3.5 Scope Statement										GESPRO11
+	3.6 WBS													GESPRO12
+	3.7 Diccionario WBS										GESPRO13
+4. Gestion del tiempo
+	4.1 Plan de gestion del tiempo							GESPRO14
+	4.2 Lista de actividades								GESPRO15
+	4.3 Diagrama de Red										GESPRO16
+	4.4 Estimacion de recursos								GESPRO17
+	4.5 Cronograma	
+		- General
+		- Detallado
+5. Gestion del costo
+	5.1 Plan de la gestion del costo						GESPRO18
+	5.2 Estimado del costo									GESPRO19
+	5.3 Presupuesto y curva S								GESPRO20
+	5.4 Indicadores											
+		- SPI
+		- CPI
+		- CSI
+6. Presentacion
+	6.1 Gestion de la integracion
+		- Plan de gestion
+			* Objetivos: area conocimiento
+			* Plan
+		- Tecnicas
+		- Salidas
+		- Diagrama del proceso
+	6.2 Gestion de los stakeholders
+		- plan
+		- estrategia
+		- analisis
+	6.3 Gestion del alcance
+		- plan del alcance
+		- plan de requerimientos
+		- scope statement
+		- WBS
+	6.4 Gestion del tiempo
+		- Plan
+		- cronograma general
+	6.5 Gestion del costo
+		- plan
+		- estimado
+		- presupuesto
+		- indicadores
+		

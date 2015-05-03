@@ -1,0 +1,84 @@
+\documentclass[book,14pt,oneside]{report}
+\usepackage{etoolbox}
+\usepackage{amssymb,amsmath,alltt}
+\usepackage{graphicx}
+\usepackage[latin1]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{setspace}
+\usepackage{epsfig}
+\usepackage{float}
+\usepackage[10pt]{moresize}
+\usepackage[compact]{titlesec}
+\usepackage{array}
+
+%este es el archivo de configuracion
+\input{input}
+
+% Se puede cambiar los siguientes parámetros para modificar el acomodo del texto
+\parskip= 6pt
+%definicion de los archivos
+
+\begin{document}
+\pagenumbering{arabic} \setcounter{page}{1}
+\pagestyle{fancy}
+
+{\let\clearpage\relax\par\include{controlversiones}}
+
+%
+\begin{table}[H]
+	\centering
+	\begin{tabular}{| p{1cm} | l | l |}
+	\hline
+	\textbf{PV} & \$ 2.500.000 & \\ \hline
+	\textbf{EV} & \$ 18.957.570 & 119230000*15,94\\
+	\hline
+	\textbf{AC} & \$ 15.000.000 & \\ 
+	\hline
+	\textbf{BAC} & \$ 119.230.000 & \\
+	\hline
+	\end{tabular}
+\end{table}
+%
+\begin{center}
+	\Large{VARIANZA DEL COSTO}
+\end{center}
+%
+\begin{table}[H]
+	\centering
+	\begin{tabular}{| p{1cm} | l | p{10cm} |}
+	\hline
+	\textbf{CV} & \$ 3.957.570 & Estamos gastando menos de lo planeado. \\ \hline
+	\textbf{SV} & \$ 16.457.570 & Hemos realizado m\'as trabajo del planificado. \\
+	\hline
+	\textbf{CPI} & 1,3 & Indica que el proyecto est\'a pagando menos por el trabajo hecho, que el costo que se 
+		planifico. \\ 
+	\hline
+	\textbf{SPI} & 7,6 & Se est\'a realizando m\'as trabajo de lo planificado. \\
+	\hline
+	\textbf{CSI} & 9,6 & hay posibilidad de arreglarlo. \\
+	\hline
+	\end{tabular}
+\end{table}
+%
+\begin{center}
+	\Large{PREDICCI\'ON}
+\end{center}
+%
+\begin{table}[H]
+	\centering
+	\begin{tabular}{| p{1cm} | l | p{10cm} |}
+	\hline
+	\textbf{EAC} & \$ 94.339.623 & Estimaci\'on de costo por terminar proyecto. \\ \hline
+	\textbf{ETC} & \$ 79.339.623 & Costo previsto para terminar todo el trabajo restante del proyecto. \\
+	\hline
+	\textbf{VAC} & \$ 24.890.377 & Determina si el proyecto finalizar\'a dentro o fuera del presupuesto. \\ 
+	\hline
+	\textbf{EACT} & 7,912406495 & Se est\'a realizando m\'as trabajo de lo planificado. \\
+	\hline
+	\textbf{TCPI} & 0,962030414 & Eficiencia que se debe alcanza en el trabajo restante para llegar a un punto 
+		determinado del proyecto. \\
+	\hline
+	\end{tabular}
+\end{table}
+%
+\end{document}
