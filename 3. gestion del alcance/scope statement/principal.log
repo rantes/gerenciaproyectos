@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.10.14)  11 MAY 2015 19:08
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.10.14)  19 MAY 2015 15:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -281,9 +281,9 @@ File: block.tss 2011/12/15
 LaTeX Warning: Unused global option(s):
     [book,14pt].
 
-(./principal.aux (./controlversiones.aux)
-LaTeX Info: Redefining \. on input line 7.
-LaTeX Info: Redefining \% on input line 7.
+(./principal.aux (./controlversiones.aux) (./contenido.aux)
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
 )
 \openout1 = `principal.aux'.
 
@@ -413,14 +413,16 @@ Overfull \hbox (1.78337pt too wide) in paragraph at lines 4--15
  [][] 
  []
 
+)
+\openout2 = `contenido.aux'.
+
+ (./contenido.tex
+ 1.
 ) <images/logoecci.png, id=1, 98.2872pt x 37.0986pt>
 File: images/logoecci.png Graphic file (type png)
  <use images/logoecci.png>
-Package pdftex.def Info: images/logoecci.png used on input line 27.
-(pdftex.def)             Requested size: 141.61081pt x 53.45418pt.
-
-Overfull \vbox (3.05421pt too high) has occurred while \output is active []
-
+Package pdftex.def Info: images/logoecci.png used on input line 28.
+(pdftex.def)             Requested size: 118.0078pt x 44.54468pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (70.0pt): 
@@ -435,27 +437,32 @@ Overfull \hbox (42.02661pt too wide) has occurred while \output is active
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
- <./images/logoecci.png>]
-(./principal.aux (./controlversiones.aux)
-LaTeX Info: Redefining \. on input line 7.
-LaTeX Info: Redefining \% on input line 7.
+
+\@writefile{lof}{\ttl@tocsep }
+\@writefile{lot}{\ttl@tocsep }
+\@writefile{toc}{\contentsline {chapter}{\numberline {1}REQUERIMIENTOS}{1}}
+ <./images/logoecci.png>] (./principal.aux (./controlversiones.aux)
+(./contenido.aux)
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
- 5692 strings out of 493304
- 80006 string characters out of 6139870
- 162792 words of memory out of 5000000
- 9033 multiletter control sequences out of 15000+600000
- 6245 words of font info for 25 fonts, out of 8000000 for 9000
+ 5707 strings out of 493304
+ 80198 string characters out of 6139870
+ 163100 words of memory out of 5000000
+ 9040 multiletter control sequences out of 15000+600000
+ 6543 words of font info for 26 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,25n,43p,808b,545s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,25n,46p,808b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on principal.pdf (1 page, 54985 bytes).
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb>
+Output written on principal.pdf (1 page, 64309 bytes).
 PDF statistics:
- 27 PDF objects out of 1000 (max. 8388607)
- 17 compressed objects within 1 object stream
+ 31 PDF objects out of 1000 (max. 8388607)
+ 20 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

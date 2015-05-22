@@ -69,22 +69,22 @@
 9. Gestion de riesgos
 	9.1 Plan de gestion										GESPRO51
 	9.2 matriz de riesgos y perfiles						GESPRO52
-	9.2.1 Alcance											GESPRO53
-	9.2.2 Tiempo											GESPRO54
-	9.2.3 Costo												GESPRO55
-	9.2.4 Calidad											GESPRO56
+	9.2.1 Alcance											
+	9.2.2 Tiempo											
+	9.2.3 Costo												
+	9.2.4 Calidad											
 
 10. GEstion de las adquisiciones
-	10.1 Plan de gestion									GESPRO57
-	10.2 Matriz de adquisiciones							GESPRO58
-	10.3 Cronograma de adqusiciones							GESPRO59
+	10.1 Plan de gestion									GESPRO53
+	10.2 Matriz de adquisiciones							GESPRO54
+	10.3 Cronograma de adqusiciones							GESPRO55
 	10.4 procedimientos
-	10.4.1 Seleccion y contratacion de proveedores			GESPRO51
-	10.4.2 Tipos de contratos								GESPRO52
-	10.4.3 Administracion de contratos						GESPRO53
+	10.4.1 Seleccion y contratacion de proveedores			GESPRO56
+	10.4.2 Tipos de contratos								GESPRO57
+	10.4.3 Administracion de contratos						GESPRO58
 	10.4.4 Cerrar fases/contratos
-	10.4.4.1 Actas de cierre fase							GESPRO54
-	10.4.4.2 Actas de aceptacion proyecto					GESPRO55
+	10.4.4.1 Actas de cierre fase							GESPRO59
+	10.4.4.2 Actas de aceptacion proyecto					GESPRO60
 	
 La enumeracion es de forma general, cuando existan documentos extras que necesiten lelvar pnemónicos,
 utilizar cardinales extra o si es necesario, definir pnemonicos adicionales, tales como en las evaluaciones

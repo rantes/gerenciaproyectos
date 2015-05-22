@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.10.14)  11 MAY 2015 19:00
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.10.14)  17 MAY 2015 14:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -411,11 +411,130 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
 \openout2 = `matriz.aux'.
 
- (./matriz.tex)
-<images/logoecci.png, id=1, 98.2872pt x 37.0986pt>
+ (./matriz.tex
+Overfull \hbox (2.7636pt too wide) in paragraph at lines 7--7
+[]|\OT1/cmr/bx/n/10 Requerimiento| 
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 9--10
+[]|\OT1/cmr/bx/n/10 Fecha de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+[]|\OT1/cmr/m/n/10 El fun-cio-na-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+\OT1/cmr/m/n/10 mien-to de la
+ []
+
+
+Underfull \hbox (badness 3724) in paragraph at lines 12--12
+[]|\OT1/cmr/m/n/10 Hasta el mo-men-
+ []
+
+
+Overfull \hbox (1.63057pt too wide) in paragraph at lines 12--13
+[]|\OT1/cmr/m/n/10 12/05/2015| 
+ []
+
+
+Underfull \hbox (badness 5217) in paragraph at lines 14--14
+[]|\OT1/cmr/m/n/10 Los cur-sos de
+ []
+
+
+Underfull \hbox (badness 2221) in paragraph at lines 14--14
+\OT1/cmr/m/n/10 60 ho-ras lec-ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+[]|\OT1/cmr/m/n/10 El cro-no-gra-ma
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+\OT1/cmr/m/n/10 de ca-pa-ci-ta-cio-nes
+ []
+
+
+Overfull \hbox (1.63057pt too wide) in paragraph at lines 15--16
+[]|\OT1/cmr/m/n/10 12/05/2015| 
+ []
+
+
+Overfull \hbox (31.70796pt too wide) in paragraph at lines 4--18
+ [][] 
+ []
+
+
+Overfull \hbox (2.7636pt too wide) in paragraph at lines 25--25
+[]|\OT1/cmr/bx/n/10 Requerimiento| 
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 27--28
+[]|\OT1/cmr/bx/n/10 Fecha de
+ []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 30--31
+\OT1/cmr/m/n/10 sa-rio im-ple-men-tar
+ []
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 30--31
+\OT1/cmr/m/n/10 rro-llo del ob-je-ti-vo
+ []
+
+
+Underfull \hbox (badness 1142) in paragraph at lines 30--31
+\OT1/cmr/m/n/10 si-gue su cur-so en
+ []
+
+
+Overfull \hbox (1.63057pt too wide) in paragraph at lines 31--32
+[]|\OT1/cmr/m/n/10 12/05/2015| 
+ []
+
+
+Underfull \hbox (badness 1308) in paragraph at lines 34--37
+[]|\OT1/cmr/m/n/10 Para es-te re-que-ri-
+ []
+
+
+Underfull \hbox (badness 1286) in paragraph at lines 34--37
+\OT1/cmr/m/n/10 ci^^Son en-tre la me-
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 34--37
+\OT1/cmr/m/n/10 usua-rios, pe-ro pe-
+ []
+
+
+Underfull \hbox (badness 4967) in paragraph at lines 34--37
+\OT1/cmr/m/n/10 ple-men-ta-cio-nes, el
+ []
+
+
+Overfull \hbox (1.63057pt too wide) in paragraph at lines 37--38
+[]|\OT1/cmr/m/n/10 12/05/2015| 
+ []
+
+
+Overfull \hbox (31.70796pt too wide) in paragraph at lines 22--40
+ [][] 
+ []
+
+) <images/logoecci.png, id=1, 98.2872pt x 37.0986pt>
 File: images/logoecci.png Graphic file (type png)
  <use images/logoecci.png>
-Package pdftex.def Info: images/logoecci.png used on input line 28.
+Package pdftex.def Info: images/logoecci.png used on input line 27.
 (pdftex.def)             Requested size: 163.17654pt x 61.59439pt.
 
 Overfull \vbox (11.19443pt too high) has occurred while \output is active []
@@ -435,15 +554,28 @@ Overfull \hbox (96.22966pt too wide) has occurred while \output is active
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
  <./images/logoecci.png>]
-(./principal.aux (./controlversiones.aux) (./matriz.aux)
+File: images/logoecci.png Graphic file (type png)
+
+<use images/logoecci.png>
+Package pdftex.def Info: images/logoecci.png used on input line 28.
+(pdftex.def)             Requested size: 163.17654pt x 61.59439pt.
+
+Overfull \vbox (11.19443pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (96.22966pt too wide) has occurred while \output is active
+[]
+ []
+
+[2] (./principal.aux (./controlversiones.aux) (./matriz.aux)
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
- 5701 strings out of 493304
- 80096 string characters out of 6139870
- 164124 words of memory out of 5000000
- 9034 multiletter control sequences out of 15000+600000
+ 5703 strings out of 493304
+ 80112 string characters out of 6139870
+ 170124 words of memory out of 5000000
+ 9036 multiletter control sequences out of 15000+600000
  6245 words of font info for 25 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  38i,25n,43p,808b,545s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -451,10 +583,10 @@ Here is how much of TeX's memory you used:
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on principal.pdf (1 page, 60275 bytes).
+Output written on principal.pdf (2 pages, 64773 bytes).
 PDF statistics:
- 27 PDF objects out of 1000 (max. 8388607)
- 17 compressed objects within 1 object stream
+ 30 PDF objects out of 1000 (max. 8388607)
+ 19 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
