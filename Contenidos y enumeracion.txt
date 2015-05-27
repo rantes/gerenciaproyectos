@@ -47,44 +47,44 @@
 	7.3 Roles y responsabilidades 							GESPRO33
 	7.4 Matriz RACI											GESPRO34
 	7.5 Matriz de adquisicion y liberacion					GESPRO35
-	7.6 procedimientos										GESPRO36
-	7.6.1 Capacitacion y entrenamiento						GESPRO37
-	7.6.2 Recompensa y reconocimiento						GESPRO38
-	7.6.3 Codigo de buen gobierno, etica y normas			GESPRO39
+	7.6 procedimientos									
+	7.6.1 Capacitacion y entrenamiento						GESPRO36
+	7.6.2 Recompensa y reconocimiento						GESPRO37
+	7.6.3 Codigo de buen gobierno, etica y normas			GESPRO38
 	7.7 Evaluacion de desempeño								
-	7.7.1 Individual										GESPRO40
-	7.7.2 Grupal											GESPRO41
+	7.7.1 Individual										GESPRO39
+	7.7.2 Grupal											GESPRO40
 
 8. Gestion de las comunicaciones
-	8.1 PLan de gestion										GESPRO42
-	8.2 matriz de comunicaciones							GESPRO43
-	8.3 Procedimientos para tratar polemicas				GESPRO44
-	8.4 Glosario (siglas - conceptos)						GESPRO45
-	8.5 Procedimientos										GESPRO46
-	8.5.1 Administracion de versiones						GESPRO47
-	8.5.2 Documentacion de proyectos						GESPRO48
-	8.6 formatos											GESPRO49
-	8.7 Calendario de eventos								GESPRO50
+	8.1 PLan de gestion										GESPRO41
+	8.2 matriz de comunicaciones							GESPRO42
+	8.3 Procedimientos para tratar polemicas				GESPRO43
+	8.4 Glosario (siglas - conceptos)						GESPRO44
+	8.5 Procedimientos										
+	8.5.1 Administracion de versiones						GESPRO45
+	8.5.2 Documentacion de proyectos						GESPRO46
+	8.6 formatos											GESPRO47
+	8.7 Calendario de eventos								GESPRO48
 
 9. Gestion de riesgos
-	9.1 Plan de gestion										GESPRO51
-	9.2 matriz de riesgos y perfiles						GESPRO52
+	9.1 Plan de gestion										GESPRO49
+	9.2 matriz de riesgos y perfiles						GESPRO50
 	9.2.1 Alcance											
 	9.2.2 Tiempo											
 	9.2.3 Costo												
 	9.2.4 Calidad											
 
 10. GEstion de las adquisiciones
-	10.1 Plan de gestion									GESPRO53
-	10.2 Matriz de adquisiciones							GESPRO54
-	10.3 Cronograma de adqusiciones							GESPRO55
+	10.1 Plan de gestion									GESPRO51
+	10.2 Matriz de adquisiciones							GESPRO52
+	10.3 Cronograma de adqusiciones							GESPRO53
 	10.4 procedimientos
-	10.4.1 Seleccion y contratacion de proveedores			GESPRO56
-	10.4.2 Tipos de contratos								GESPRO57
-	10.4.3 Administracion de contratos						GESPRO58
+	10.4.1 Seleccion y contratacion de proveedores			GESPRO54
+	10.4.2 Tipos de contratos								GESPRO55
+	10.4.3 Administracion de contratos						GESPRO56
 	10.4.4 Cerrar fases/contratos
-	10.4.4.1 Actas de cierre fase							GESPRO59
-	10.4.4.2 Actas de aceptacion proyecto					GESPRO60
+	10.4.4.1 Actas de cierre fase							GESPRO57
+	10.4.4.2 Actas de aceptacion proyecto					GESPRO58
 	
 La enumeracion es de forma general, cuando existan documentos extras que necesiten lelvar pnemónicos,
 utilizar cardinales extra o si es necesario, definir pnemonicos adicionales, tales como en las evaluaciones
