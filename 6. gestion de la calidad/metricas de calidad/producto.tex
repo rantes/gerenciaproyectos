@@ -1,0 +1,30 @@
+\chapter{M\'ETRICAS DEL PRODUCTO}
+%
+\section{Disponibilidad de la plataforma}
+%
+Se define como el tiempo de uptime que permanece disponible la plataforma en funcionamiento para los
+usuarios.\\%
+%
+Este factor de calidad es relevante porque el servicio debe funcionar constantemente 7/24/365.\\
+%
+Por otro lado, existen eventos de mantenimiento que pueden detener la disponibilidad, pero son
+programados en las horas cuyo flujo de datos sea el menor posible (por ejemplo: 2:00 a.m. - 4:00 a.m.).\\[0.5cm]%
+%
+\textbf{M\'etodo de medici\'on.}
+%
+\begin{enumerate}
+	\item Se establece un servicio de watchdog que permite recibir alertas de cuando la plataforma no est\'a
+		en funcionamiento y cuando restablece operaciones.
+	\item Se lleva registro de todos los incidentes.
+	\item Se calcula el tiempo no operacional.
+	\item Se genera informe de tiempos no operacionales a lo largo del mes con sus respectivas razones.
+	\item Se revisar\'a el informe con el Sponsor y se tomar\'an las acciones correctivas y/o preventivas
+		pertinentes.
+	\item Se informar\'a al cliente de dichas acciones de ser el caso.
+\end{enumerate}
+%
+\textbf{Resultados deseados.}
+%
+\begin{enumerate}
+	\item El factor downtime no puede superar 10 horas al mes.
+\end{enumerate}

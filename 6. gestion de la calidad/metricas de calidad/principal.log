@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.10.14)  28 MAY 2015 18:50
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.10.14)  29 MAY 2015 07:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -281,11 +281,10 @@ File: block.tss 2011/12/15
 LaTeX Warning: Unused global option(s):
     [book,14pt].
 
-(./principal.aux (./controlversiones.aux) (./objetivos.aux) (./procesos.aux)
-(./docs.aux) (./tecnicas.aux)
-LaTeX Info: Redefining \. on input line 11.
-LaTeX Info: Redefining \% on input line 11.
- (./procedimientos.aux))
+(./principal.aux (./controlversiones.aux) (./proyecto.aux)
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+ (./producto.aux))
 \openout1 = `principal.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
@@ -415,40 +414,15 @@ Overfull \hbox (1.78337pt too wide) in paragraph at lines 4--15
  []
 
 )
-\openout2 = `objetivos.aux'.
+\openout2 = `proyecto.aux'.
 
- (./objetivos.tex
+ (./proyecto.tex
  1.
- 2.
-)
-\openout2 = `procesos.aux'.
-
- (./procesos.tex
- 3.
-)
-\openout2 = `docs.aux'.
-
- (./docs.tex
- 4.
-)
-\openout2 = `tecnicas.aux'.
-
- (./tecnicas.tex
- 5.
-
-Overfull \hbox (20.58148pt too wide) in paragraph at lines 5--17
- [][] 
- []
-
-) <images/logoecci.png, id=1, 98.2872pt x 37.0986pt>
+<images/logoecci.png, id=1, 98.2872pt x 37.0986pt>
 File: images/logoecci.png Graphic file (type png)
  <use images/logoecci.png>
-Package pdftex.def Info: images/logoecci.png used on input line 30.
+Package pdftex.def Info: images/logoecci.png used on input line 48.
 (pdftex.def)             Requested size: 118.0078pt x 44.54468pt.
-
-Overfull \hbox (17.11458pt too wide) has occurred while \output is active
- [][] 
- []
 
 
 Package Fancyhdr Warning: \headheight is too small (70.0pt): 
@@ -463,44 +437,16 @@ Overfull \hbox (42.02661pt too wide) has occurred while \output is active
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
+ <./images/logoecci.png>])
+\openout2 = `producto.aux'.
 
-\@writefile{lof}{\ttl@tocsep }
-\@writefile{lot}{\ttl@tocsep }
-\@writefile{toc}{\contentsline {chapter}{\numberline {1}OBJETIVO DE LA GESTI\'O
-N}{1}}
-\@writefile{lof}{\ttl@tocsep }
-\@writefile{lot}{\ttl@tocsep }
-\@writefile{toc}{\contentsline {chapter}{\numberline {2}OBJETIVO DEL PLAN DE GE
-STI\'ON}{1}}
-\@writefile{lof}{\ttl@tocsep }
-\@writefile{lot}{\ttl@tocsep }
-\@writefile{toc}{\contentsline {chapter}{\numberline {3}PROCESOS A DESARROLLAR}
-{1}}
-\@writefile{toc}{\contentsline {section}{\numberline {3.1}Identificaci\'on de r
-iesgos y controles}{1}}
-\@writefile{lof}{\ttl@tocsep }
-\@writefile{lot}{\ttl@tocsep }
-\@writefile{toc}{\contentsline {chapter}{\numberline {4}REPORTES, DOCUMENTOS Y 
-FORMATOS}{1}}
-\@writefile{toc}{\contentsline {section}{\numberline {4.1}Proceso: Gesti\'on de
- riesgos}{1}}
-\@writefile{toc}{\contentsline {section}{\numberline {4.2}Proceso: Identificaci
-\'on de riesgos y controles}{1}}
- <./images/logoecci.png>]
-\openout2 = `procedimientos.aux'.
-
- (./procedimientos.tex
- 6.
+(./producto.tex
+ 2.
 )
 File: images/logoecci.png Graphic file (type png)
  <use images/logoecci.png>
-Package pdftex.def Info: images/logoecci.png used on input line 32.
+Package pdftex.def Info: images/logoecci.png used on input line 29.
 (pdftex.def)             Requested size: 118.0078pt x 44.54468pt.
-
-Overfull \hbox (17.11458pt too wide) has occurred while \output is active
- [][] 
- []
-
 
 Overfull \hbox (42.02661pt too wide) has occurred while \output is active
 []
@@ -509,30 +455,28 @@ Overfull \hbox (42.02661pt too wide) has occurred while \output is active
 [2
 \@writefile{lof}{\ttl@tocsep }
 \@writefile{lot}{\ttl@tocsep }
-\@writefile{toc}{\contentsline {chapter}{\numberline {5}T\'ECNICAS Y HERRAMIENT
-AS}{2}}
-\@writefile{lof}{\ttl@tocsep }
-\@writefile{lot}{\ttl@tocsep }
-\@writefile{toc}{\contentsline {chapter}{\numberline {6}PROCEDIMIENTO}{2}}
-] (./principal.aux (./controlversiones.aux) (./objetivos.aux) (./procesos.aux)
-(./docs.aux) (./tecnicas.aux)
-LaTeX Info: Redefining \. on input line 11.
-LaTeX Info: Redefining \% on input line 11.
- (./procedimientos.aux)) ) 
+\@writefile{toc}{\contentsline {chapter}{\numberline {2}M\'ETRICAS DEL PRODUCTO
+}{2}}
+\@writefile{toc}{\contentsline {section}{\numberline {2.1}Disponibilidad de la 
+plataforma}{2}}
+] (./principal.aux (./controlversiones.aux) (./proyecto.aux)
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+ (./producto.aux)) ) 
 Here is how much of TeX's memory you used:
- 5749 strings out of 493304
- 80713 string characters out of 6139870
- 169391 words of memory out of 5000000
- 9054 multiletter control sequences out of 15000+600000
+ 5726 strings out of 493304
+ 80407 string characters out of 6139870
+ 167408 words of memory out of 5000000
+ 9052 multiletter control sequences out of 15000+600000
  6543 words of font info for 26 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,26n,46p,808b,640s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
-2.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on principal.pdf (2 pages, 76972 bytes).
+ 38i,25n,46p,808b,763s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb>
+Output written on principal.pdf (2 pages, 78902 bytes).
 PDF statistics:
  34 PDF objects out of 1000 (max. 8388607)
  22 compressed objects within 1 object stream
